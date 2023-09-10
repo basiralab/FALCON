@@ -151,7 +151,7 @@ To manually run the experiment with user defined parameters, the user can use th
 python main_{dataset name}.py --model_type {model name} --centrality {centrality type} --num_epoch {number of epoch} --node_budget {node budget} --max_hop {SIGN maximum hop} --layers {number of layers} --dropout {dropout} --batch_norm {batch normalization} --lr {learning rate} --num_batch {number of mini-batches} --N_cluster {FALCON clusters} --gamma {gamma}
 ```
 By setting the parameters as follows:
-- {dataset name}: a choice between PPI, OrganC, and OrganS
+- {dataset name}: a choice between PPI, Flickr, OrganC, and OrganS
 - {model name}: a choice between GCN, SIGN, and QSIGN
 - {centrality type}: a choice between NO (no contraction), DC (degree centrality), EC (eigenvector centrality), BC (betweenness centrality), PR (PageRank centrality), and CC (closeness centrality), which denotes the centrality measure being used for the contraction
 - {number of epoch}: integer denoting the number of epoch
