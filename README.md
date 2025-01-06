@@ -195,7 +195,7 @@ Note that the results of the run will be appended to results.csv file (will auto
 
 To learn about how FALCON and its variant CQSIGN work, check the following YouTube video: 
 
-[[https://youtu.be/Q_WLY2ZNxRk](](https://www.youtube.com/watch?v=s1k-TcjKGFI)](https://www.youtube.com/watch?v=YSlunTYARXo)
+https://www.youtube.com/watch?v=YSlunTYARXo
 
 ## You can check the FALCON Jounal paper (IEEE Transactions on Neural Networks and Learning Systems, IF: 10.2)
 
