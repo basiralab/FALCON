@@ -190,3 +190,24 @@ To reproduce our benchmark of FALCON against [graph coarsening](https://github.c
 ./run_coarsening_benchmark.sh
 ```
 Note that the results of the run will be appended to results.csv file (will automatically be created if it doesn't exists) in a tabular manner.
+
+## YouTube video on FALCON (MICCAI Workshop 2023 paper presentation)
+
+To learn about how FALCON and its variant CQSIGN work, check the following YouTube video: 
+
+[[https://youtu.be/Q_WLY2ZNxRk](](https://www.youtube.com/watch?v=s1k-TcjKGFI)](https://www.youtube.com/watch?v=YSlunTYARXo)
+
+## You can check the FALCON Jounal paper (IEEE Transactions on Neural Networks and Learning Systems, IF: 10.2)
+
+https://ieeexplore.ieee.org/abstract/document/10772222
+
+## Please cite the following paper when using FALCON
+```latex
+  @article{adnel2024falcon,
+    title={FALCON: Feature-Label Constrained Graph Net Collapse for Memory-Efficient GNNs},
+    author={Adnel, Christopher and Rekik, Islem},
+    journal={IEEE Transactions on Neural Networks and Learning Systems},
+    year={2024},
+    publisher={IEEE}
+  }
+```
